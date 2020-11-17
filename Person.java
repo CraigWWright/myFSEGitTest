@@ -40,4 +40,9 @@ private String familyName;
 	{
 		
 	}
+	
+	public toString()
+	{
+		
+	}
 }
