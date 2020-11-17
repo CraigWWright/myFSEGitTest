@@ -30,4 +30,9 @@ private String familyName;
 	{
 	this.user.email = user.email;	
 	}
+	
+	public int getAge()
+	{
+		
+	}
 }
