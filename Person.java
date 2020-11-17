@@ -11,4 +11,23 @@ private String familyName;
 	familyName = new String();
 	}
 	
+	public void getName();
+	{
+	return	this.user.name;
+	}
+	
+	public void setName(user.name)
+	{
+	this.user.name = user.name;	
+	}
+	
+	public void getEmail();
+	{
+	return	this.user.email;
+	}
+	
+	public void setEmail(user.email)
+	{
+	this.user.email = user.email;	
+	}
 }
