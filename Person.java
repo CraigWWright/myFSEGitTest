@@ -35,4 +35,9 @@ private String familyName;
 	{
 		
 	}
+	
+	public String printFullName();
+	{
+		
+	}
 }
